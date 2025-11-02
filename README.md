@@ -51,4 +51,4 @@ Through this project, I learned:
 
 1. Clone this repository:
    ```bash
-   git clone https://https://shrutisah9827.github.io/Portfolio-Website-2025-/
+   git clone https://shrutisah9827.github.io/Portfolio-Website-2025-/
